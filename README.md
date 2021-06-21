@@ -11,7 +11,7 @@
 
 <h2>🎨 Layouts</h2>
 <h3>Web:</h3>
-<img src="images/pk2.png">
+<img src="images/jj.gif">
 
 [Rodrigo-Souza-Dev](https://github.com/Rodrigo-Souza-DEV)
 
