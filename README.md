@@ -13,9 +13,9 @@
 <h3>Web:</h3>
 <img src="images/jj.gif">
 
-[Rodrigo-Souza-Dev](https://github.com/Rodrigo-Souza-DEV)
-
 <h2 id="licenca"> ⚠️  Licença</h2>
 
 Esse projeto esta sobre a licença [MIT](https://github.com/Rodrigo-Souza-DEV/gameSpace/blob/master/LICENSE).
-<p>Feito por Rodrigo Souza.</p>
+<p>Feito por <a href="https://github.com/Rodrigo-Souza-DEV">Rodrigo Souza.</a></p>
+<hr>
+<h3>Acesse o Jogo <a href='https://rodrigo-souza-dev.github.io/gameSpace/'>Aqui.</a></h3>
